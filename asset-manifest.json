@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/soumyabhardwaj/seasonsApp.git/static/css/main.9489452e.chunk.css",
+    "main.js": "/soumyabhardwaj/seasonsApp.git/static/js/main.b8cb1fed.chunk.js",
+    "main.js.map": "/soumyabhardwaj/seasonsApp.git/static/js/main.b8cb1fed.chunk.js.map",
+    "runtime-main.js": "/soumyabhardwaj/seasonsApp.git/static/js/runtime-main.d59de8f7.js",
+    "runtime-main.js.map": "/soumyabhardwaj/seasonsApp.git/static/js/runtime-main.d59de8f7.js.map",
+    "static/js/2.8b77c9df.chunk.js": "/soumyabhardwaj/seasonsApp.git/static/js/2.8b77c9df.chunk.js",
+    "static/js/2.8b77c9df.chunk.js.map": "/soumyabhardwaj/seasonsApp.git/static/js/2.8b77c9df.chunk.js.map",
+    "index.html": "/soumyabhardwaj/seasonsApp.git/index.html",
+    "precache-manifest.a3b331ef72b1ee0613debf30ebc70e79.js": "/soumyabhardwaj/seasonsApp.git/precache-manifest.a3b331ef72b1ee0613debf30ebc70e79.js",
+    "service-worker.js": "/soumyabhardwaj/seasonsApp.git/service-worker.js",
+    "static/css/main.9489452e.chunk.css.map": "/soumyabhardwaj/seasonsApp.git/static/css/main.9489452e.chunk.css.map",
+    "static/js/2.8b77c9df.chunk.js.LICENSE.txt": "/soumyabhardwaj/seasonsApp.git/static/js/2.8b77c9df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d59de8f7.js",
+    "static/js/2.8b77c9df.chunk.js",
+    "static/css/main.9489452e.chunk.css",
+    "static/js/main.b8cb1fed.chunk.js"
+  ]
+}
